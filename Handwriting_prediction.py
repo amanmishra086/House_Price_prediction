@@ -22,7 +22,7 @@ def train_mnist():
     # YOUR CODE SHOULD START HERE
 
 
-    # YOUR CODE SHOULD END HERE
+    # YOUR CODE SHOULD MUST END HERE 
 
     mnist = tf.keras.datasets.mnist
 
